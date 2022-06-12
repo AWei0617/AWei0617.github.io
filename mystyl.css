@@ -1,5 +1,6 @@
  body{
-             background-color: lightgoldenrodyellow;    
+                
+             background-color: lightgoldenrodyellow;     
         }
         
         h1{
@@ -11,10 +12,9 @@
          }
         
         p{
-            text-indent: 50px;      
             padding: 12px;
-            margin: 20px;
-            line-height: 1.5em;
+            margin: 15px;
+            line-height: 2em;
             letter-spacing: 1px;
             
                   
@@ -22,13 +22,13 @@
         
         p.MyTitle{
             color: darkblue;
-            padding: 12px;
+            padding: 10px;
             margin: 20px;
-            width; 12px;
+            width; 5px;
         }
-        
+    
         img{
-            margin-left: 600px;
+            margin-left: 80px;
         }
     
         strong{
